@@ -1,0 +1,9 @@
+C:\z_exercises\unit-testing-autofixture-dot-net\03\demos\before\01Strings\DemoCode\bin\Debug\netstandard2.0\DemoCode.deps.json
+C:\z_exercises\unit-testing-autofixture-dot-net\03\demos\before\01Strings\DemoCode\bin\Debug\netstandard2.0\DemoCode.dll
+C:\z_exercises\unit-testing-autofixture-dot-net\03\demos\before\01Strings\DemoCode\bin\Debug\netstandard2.0\DemoCode.pdb
+C:\z_exercises\unit-testing-autofixture-dot-net\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.csprojAssemblyReference.cache
+C:\z_exercises\unit-testing-autofixture-dot-net\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.AssemblyInfoInputs.cache
+C:\z_exercises\unit-testing-autofixture-dot-net\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.AssemblyInfo.cs
+C:\z_exercises\unit-testing-autofixture-dot-net\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.csproj.CoreCompileInputs.cache
+C:\z_exercises\unit-testing-autofixture-dot-net\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.dll
+C:\z_exercises\unit-testing-autofixture-dot-net\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0AVxqiR3Egdy/L8UDYffTLDKEC7DNn7bmVM5GrQUW3fdVpqnVG6MZTqXVJguEzvmsiL8+EVz/Z4xgPd15zgS8A==",
+  "success": true,
+  "projectFilePath": "C:\\z_exercises\\unit-testing-autofixture-dot-net\\03\\demos\\before\\01Strings\\DemoCode\\DemoCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LarisaBrovkina\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LarisaBrovkina\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\LarisaBrovkina\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

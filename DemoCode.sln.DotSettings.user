@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=54366966_002D2975_002D4e0e_002Da2b8_002Da68c8e135d0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BasicStrings" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.StringDemos.BasicStrings&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.NumberDemos.Decimal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.DateAndTimeDemos.DateTimes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.SequenceDemo.AddingToExistingList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.CustomTypeDemos.AutoCreation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.ObjectGraphDemos.AutoCreation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.CustomizeFixtureDemos.Error&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.CustomizeFixtureDemos.FreezingValues&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.CustomizeFixtureDemos.AutoFreezingValues&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.CustomizeFixtureDemos.OmitSettingSpecificProperties&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.CustomizationDemos.CustomizePipeline&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.EmailMessageBufferShould&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.CalculatorShould&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::85DB913E-CE6E-4987-A31A-7CF9F1F1FF87::.NETCoreApp,Version=v3.1::DemoCode.Tests.BookingShould.CalculateTotalFlightTime&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
